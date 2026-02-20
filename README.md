@@ -62,8 +62,5 @@ pip install ultralytics
 # 🔥 Optional Professional Badges (Add at Top)
 Add this under title:
 ```markdown
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![YOLO26](https://img.shields.io/badge/Model-YOLO26-red)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
