@@ -61,6 +61,5 @@ pip install ultralytics
 
 # 🔥 Optional Professional Badges (Add at Top)
 Add this under title:
-```markdown
 
 
